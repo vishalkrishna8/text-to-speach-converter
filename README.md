@@ -1,7 +1,6 @@
 ## Text to speach converter
 
-
-This is text to speach converter website
+This is a simple implementation of a text-to-speech converter in JavaScript. 
 
 
 **[Live demo](https://text-to-speach-converter.vercel.app/)**
@@ -17,6 +16,14 @@ HTML
 CSS
 
 JavaScript
+
+
+**Usage**
+
+
+To use the text-to-speech converter, simply enter the text you want to convert in the text input and click the "Speak" button. 
+
+The program will speak the text out loud using the default system voice.
 
 
 **Installation**
