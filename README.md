@@ -1,4 +1,4 @@
-## Text to speach converter
+# Text to speach converter
 
 This is a simple implementation of a text-to-speech converter in JavaScript. 
 
