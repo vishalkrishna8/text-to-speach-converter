@@ -6,7 +6,7 @@ This is a simple implementation of a text-to-speech converter in JavaScript.
 # [Live demo](https://text-to-speach-converter.vercel.app/)
 
 
-## Technologies used
+#### Technologies used
 
 
 This website was built using the following technologies:
