@@ -18,7 +18,7 @@ This website was built using the following technologies:
 • JavaScript
 
 
-## Usage
+#### Usage
 
 
 • To use the text-to-speech converter, simply enter the text you want to convert in the text input and click the "Speak" button. 
