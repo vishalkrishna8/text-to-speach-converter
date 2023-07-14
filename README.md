@@ -26,7 +26,7 @@ This website was built using the following technologies:
 • The program will speak the text out loud using the default system voice.
 
 
-### Installation
+#### Installation
 
 
 To install and run the website locally, follow these steps:
@@ -36,7 +36,7 @@ To install and run the website locally, follow these steps:
 • Open the website in a browser: http://localhost:3000
 
 
-## Contributing
+#### Contributing
 
 
 Contributions to the website are welcome. To contribute, follow these steps:
