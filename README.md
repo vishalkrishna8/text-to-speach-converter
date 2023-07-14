@@ -26,7 +26,7 @@ This website was built using the following technologies:
 • The program will speak the text out loud using the default system voice.
 
 
-## Installation
+### Installation
 
 
 To install and run the website locally, follow these steps:
