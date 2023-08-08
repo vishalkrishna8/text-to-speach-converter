@@ -3,7 +3,7 @@
 This is a simple implementation of a text-to-speech converter in JavaScript. 
 
 
-# [Live demo](https://text-to-speach-converter.vercel.app/)
+# [Live Preview](https://text-to-speach-converter.vercel.app/)
 
 
 #### Technologies used
