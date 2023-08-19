@@ -11,8 +11,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(backimg.png);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(backimg.png);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(backimg.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
