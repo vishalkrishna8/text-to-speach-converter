@@ -80,7 +80,7 @@ form button{
     font-weight: 500;
     cursor: pointer;
     background: rgb(60,60,60);
-    color: #fff;
+    color: #555555;
     font-size: 1.1rem;
 }
 @media (max-width:380px){
