@@ -36,8 +36,8 @@ label{
     color:#000;
 }
 .wrapper{
-    <!-- background: #fff; -->
-    background: #555555;
+    background: #fff;
+   
     padding: 1rem;
     border-radius: .5rem;
     /* box-shadow: 1rem, rgb(70, 200, 240); */
@@ -80,7 +80,7 @@ form button{
     font-weight: 500;
     cursor: pointer;
     background: rgb(60,60,60);
-    color: #555555;
+    color: #fff;
     font-size: 1.1rem;
 }
 @media (max-width:380px){
